@@ -38,7 +38,7 @@
   --background-sepia: 0%;
   --background-blur: 0px;
   --backdrop-overlay: rgba(0, 0, 0, .8);
-  --background-image: url(https://rawcdn.githack.com/DarkMattz/DiscordTheme/6700401ed8d44aff0a64f37d325aa14d97b8b43d/Assets/Pictures/leah.png); /* app background image (link must be HTTPS) [default: url(https://clearvision.gitlab.io/images/sapphire.jpg)]*/
+  --background-image: url(https://rawcdn.githack.com/DarkMattz/DiscordTheme/6700401ed8d44aff0a64f37d325aa14d97b8b43d/Assets/Pictures/leah.png);
   --backdrop-image: var(--background-image);
   --backdrop-position: var(--background-position);
   --backdrop-size: var(--background-size);
