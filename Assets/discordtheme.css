@@ -630,7 +630,7 @@ textarea,
 
 /* GUILDS */
 .layer-3QrUeG .wrapper-3NnKdC {
-  background-color: transparent;
+  background: rgba(0, 0, 0, calc(var(--background-shading) * .6));
 }
 
 .platform-osx .wrapper-3NnKdC {
