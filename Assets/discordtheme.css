@@ -7529,6 +7529,10 @@ textarea::-webkit-scrollbar {
 }
 
 /* SETTINGS CONTENT */
+#user-settings{
+  background: rgba(0, 0, 0, .4);
+}
+
 .standardSidebarView-3F1I7i > .contentRegion-3nDuYy {
   background: transparent;
 }
