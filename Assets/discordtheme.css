@@ -3316,7 +3316,7 @@ code {
 }
 .membersWrap-2h-GB4 .members-1998pB {
   width: var(--members-width);
-  background: rgba(58, 58, 58, calc(var(--background-shading) * .35));
+  background: rgba(53, 53, 53, calc(var(--background-shading) * .35));
 }
 .membersWrap-2h-GB4 .members-1998pB > div {
   background-color: transparent;
