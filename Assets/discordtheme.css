@@ -11,7 +11,7 @@
   --channel-color: rgba(255,255,255,0.3);
   --muted-color: rgba(255,255,255,0.1);
   --channel-text-selected: #fff;
-  --url-color: var(--main-color);
+  --url-color: #91d3cd; 
   --online-color: #43b581;
   --idle-color: #faa61a;
   --dnd-color: #982929;
@@ -2119,7 +2119,7 @@ textarea,
   border-color: transparent;
 }
 .reaction-1hd86g.reactionMe-wv5HKu .reactionCount-2mvXRV {
-  color: var(--main-color);
+  color: var(--url-color);
 }
 .reaction-1hd86g.reactionMe-wv5HKu:hover {
   background-color: rgba(255, 255, 255, 0.2);
