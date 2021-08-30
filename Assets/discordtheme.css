@@ -102,9 +102,12 @@
   background: transparent;
 }
 
-.layer-3QrUeG .container-2lgZY8,
-.layer-3QrUeG .standardSidebarView-3F1I7i {
+.layer-3QrUeG .container-2lgZY8 {
   background: transparent;
+}
+
+.layer-3QrUeG .standardSidebarView-3F1I7i {
+  background: rgba(0, 0, 0, calc(var(--background-shading) * .4));
 }
 
 .container-2lgZY8 .base-3dtUhz {
@@ -7530,9 +7533,7 @@ textarea::-webkit-scrollbar {
 }
 
 /* SETTINGS CONTENT */
-#user-settings{
-  background: rgba(0, 0, 0, .4);
-}
+
 
 .standardSidebarView-3F1I7i > .contentRegion-3nDuYy {
   background: transparent;
