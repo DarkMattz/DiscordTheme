@@ -2227,7 +2227,7 @@ textarea,
   color: rgba(255, 255, 255, 0.7);
 }
 .embed-IeVjo6 .embedLink-1G1K1D {
-  color: var(--main-color);
+  color: var(--url-color);
   transition: all 0.1s ease-in-out;
 }
 .embed-IeVjo6 .embedLink-1G1K1D:hover {
@@ -2235,7 +2235,7 @@ textarea,
   text-decoration: none !important;
 }
 .embed-IeVjo6 .embedTitleLink-1Zla9e {
-  color: var(--main-color) !important;
+  color: var(--url-color) !important;
 }
 .embed-IeVjo6 .embedVideoActions-O6vR7W .wrapper-129saQ {
   background: rgba(0, 0, 0, 0.5);
@@ -2243,7 +2243,7 @@ textarea,
   box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.5);
 }
 .embed-IeVjo6 a > code.inline {
-  color: var(--main-color);
+  color: var(--url-color);
 }
 .embed-IeVjo6 .embedFooterText-28V_Wb {
   color: rgba(255, 255, 255, 0.5);
