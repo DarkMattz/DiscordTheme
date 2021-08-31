@@ -2,8 +2,11 @@
 /*! ClearVision v6.1.1 by the CV team */
 /*! Powered by DiscordSelectors v0.2.7 */
 /* DEFAULT SETTINGS */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Roboto&display=swap');
 :root {
-  --main-color: #517572;
+  --main-color: #5dc0b8;
   --hover-color: #1e63b3;
   --success-color: #43b581;
   --danger-color: #982929;
@@ -11,14 +14,14 @@
   --channel-color: rgba(255,255,255,0.3);
   --muted-color: rgba(255,255,255,0.1);
   --channel-text-selected: #fff;
-  --url-color: #91d3cd; 
+  --url-color: #7bc0e0; 
   --date-color: #81ada9;
   --online-color: #43b581;
   --idle-color: #faa61a;
   --dnd-color: #982929;
   --offline-color: #808080;
   --streaming-color: #593695;
-  --main-font: Whitney, Helvetica Neue, Helvetica, Arial, sans-serif;
+  --main-font:  'Lato', 'Roboto', 'Poppins', sans-serif;
   --code-font: Consolas, Liberation Mono, Menlo, Courier, monospace;
   --font-display: var(--main-font);
   --text-normal: rgb(220, 221, 222);
