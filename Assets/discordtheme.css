@@ -6,8 +6,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lato&family=Roboto&display=swap');
 :root {
-  --main-color: #5dc0b8;
-  --hover-color: #1e63b3;
+  --value-main-color: 93, 192, 184; 
+  --main-color: rgb(var(--value-main-color));
+  --hover-color: rgba(var(--value-main-color), 0.7);
   --success-color: #43b581;
   --danger-color: #982929;
   --channel-unread: var(--main-color);
